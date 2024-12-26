@@ -1,0 +1,9 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.navbar {
+    font-weight: 700;
+}
+.content-container {
+    background-color: #ecebeb;
+}

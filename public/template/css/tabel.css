@@ -1,0 +1,149 @@
+
+.container {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 20px 20px rgba(0,0,0,0.1);
+    height: auto;
+}
+
+.container1 {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to bottom, #2f5a59 50%, transparent 50%);
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    height: auto;
+}
+
+
+
+#Table thead th {
+    background-color: #31302f;
+    color: white;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+
+}
+
+#Table tbody tr {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+    margin-bottom: 10px;
+}
+
+#Table tbody td {
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    vertical-align: middle;
+}
+
+#Table thead th:first-child {
+    border-top-left-radius: 8px;
+}
+
+#Table thead th:last-child {
+    border-top-right-radius: 8px;
+}
+
+#Table tbody tr td:first-child {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+#Table tbody tr td:last-child {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#Table {
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    padding: 10px;
+    border-radius: 8px;
+
+}
+
+.btn i {
+    font-size: 17px; /* Ukuran ikon */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+
+.view-btn {
+    height:35px;
+    width: 35px;
+
+}
+
+.edit-btn {
+
+    height: 35px;
+    width: 35px;
+}
+
+.delete-btn {
+
+    height: 35px;
+    width: 35px;
+}
+
+.perpanjang-btn {
+    height: 35px;
+    width: 35px;
+}
+
+.btn
+
+
+
+.dataTables_wrapper input {
+    border: 2px solid #000000;
+    border-radius: 4px;
+    padding: 8px 12px;
+    margin-left: 8px;
+    font-size: 14px;
+    transition: border-color 0.3s ease;
+    width: 200px;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    background: #ffffff !important;
+    color: rgb(0, 0, 0) !important;
+    border: none !important;
+    border-radius: 5px;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background: #ffffff !important;
+    color: rgb(0, 0, 0) !important;
+    border: none !important;
+}
+
+.form-control {
+    border: 3px solid #1e1f25;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.modal-header {
+    background: #363945;
+    color: white;
+
+}
+
+.madal-body input {
+    box-shadow:0 2px 4px rgba(0,0,0,0.1) ;
+    border: #000;
+    border-color: #000;
+}
+
+/* Search Container Styling */
+.dataTables_filter {
+    margin-bottom: 20px;
+}
+
+
