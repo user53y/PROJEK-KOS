@@ -9,13 +9,32 @@ Anggota Kelompok :
 4.	Reny Safarida - 2331730040
 
 
+## Priview user pemilik
+
+Landding Page
+
+Dashboard Pemilik
+![App Screenshot](Snipaste_2024-12-26_19-24-11.png)
+
+Halaman kelola Kamar
+![App Screenshot](Snipaste_2024-12-26_19-24-11.png)
+
+Halaman Kelola Penghuni
+
+Halaman kelola Pemasukan
+
+Halaman kelola Pengeluaran
+
+## Priview user penghuni
+
+Halaman Pesan Kamar
+
+Halaman Cek Pembayaran
+
+
 ## Manual Book
 
 [Documentation](https://linkmanualbook)
-
-## Screenshots
-
-![App Screenshot](Snipaste_2024-12-26_19-24-11.png)
 
 
 
