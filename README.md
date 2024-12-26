@@ -11,7 +11,7 @@ Anggota Kelompok :
 
 ## Manual Book
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://linkmanualbook)
 
 ## Screenshots
 
