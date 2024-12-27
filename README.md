@@ -1,5 +1,5 @@
-# Projek Kos_Staykos.id
-**StayKos.id** merupakan proyek yang dibuat dalam rangka pemenuhan tugas akhir semester mata kuliah Pemrograman Web Lanjut - Program Studi Manajemen Informatika Kelas 2B. Sistem ini dikembangkan menggunakan framework Laravel untuk memudahkan pemilik dalam mengelola kos.
+# Projek Kos_Staykost.id
+**StayKost.id** merupakan proyek yang dibuat dalam rangka pemenuhan tugas akhir semester mata kuliah Pemrograman Web Lanjut - Program Studi Manajemen Informatika - Kelas 2B. Sistem ini dikembangkan menggunakan framework Laravel untuk memudahkan pemilik dalam mengelola kos.
 
 **Anggota Kelompok :**
 1.	Andara Artahusna - 2331730090 
@@ -7,13 +7,16 @@
 3.	Marinda Cahya P - 2331730030 
 4.	Reny Safarida - 2331730040
 
+## Manual Book
+[Documentation](https://github.com/user53y/PROJEK-KOS/blob/214a9e2e5e0e55aa79ac34a74b834001eecc62df/Manual_book_Manajemen_kost.pdf)
 
-## Priview Pengguna Pemilik
+
+## Priview Pengguna bagian -> Pemilik
 
 **Priview Menu**
 ![App Screenshot](https://github.com/user53y/PROJEK-KOS/blob/f5c214ba97c4e8f64019aaf0494552855a825875/0_priview%20menu.png)
 
-**Landding Page**
+**Landing Page**
 ![App Screenshot](01_landding_page.png)
 
 **Dashboard Pemilik**
@@ -34,7 +37,7 @@
 **cetak laporan**
 ![App Screenshot](https://github.com/user53y/PROJEK-KOS/blob/f5c214ba97c4e8f64019aaf0494552855a825875/06_cetak%20laporan.png)
 
-## Priview user penghuni
+## Priview Pengguna bagian -> Penghuni
 
 **Priview Menu**
 ![App Screenshot](https://github.com/user53y/PROJEK-KOS/blob/f5c214ba97c4e8f64019aaf0494552855a825875/0_priview%20menu2.png)
@@ -46,9 +49,7 @@
 ![App Screenshot](https://github.com/user53y/PROJEK-KOS/blob/f5c214ba97c4e8f64019aaf0494552855a825875/08_cek%20pembayaran.png)
 
 
-## Manual Book
 
-[Documentation](https://linkmanualbook)
 
 
 
